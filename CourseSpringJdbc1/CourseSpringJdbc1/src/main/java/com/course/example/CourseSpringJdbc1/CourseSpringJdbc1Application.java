@@ -10,6 +10,10 @@ public class CourseSpringJdbc1Application
 	public static void main(String[] args)
 	{
 		SpringApplication.run(CourseSpringJdbc1Application.class, args);
+		System.out.println("Application starting ");
+
+
+		System.out.println("Application finished");
 	}
 
 }
